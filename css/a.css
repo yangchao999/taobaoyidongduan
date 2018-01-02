@@ -1,0 +1,119 @@
+.container .container-center .bottom-one{
+    float: left;
+    width: 1.266rem;
+    height: 1.74rem;
+    background: yellow;
+    position: relative;
+}
+.container .container-center .bottom-one .one-img{
+    width: 1.28rem;
+    height: 1.306rem;
+    position: absolute;
+    bott: 0.26rem;
+    right: 0.1rem;
+}
+.container .container-center .bottom-one .one-wenzi{
+    width: 0.866rem;
+    height: 0.386rem;
+    font-size: 39px;
+    text-align: center;
+    position: absolute;
+    bott:1.4rem;
+    left: 0.21rem;
+}
+.container .container-center .bottom-two{
+    float: left;
+    width: 1.266rem;
+    height: 1.74rem;
+    margin-left: 0.63rem;
+    background: yellow;
+    position: relative;
+}
+.container .container-center .bottom-two .one-img{
+    width: 1.28rem;
+    height: 1.306rem;
+    position: absolute;
+    bott: 0.26rem;
+    right: 0.1rem;
+}
+.container .container-center .bottom-two .one-wenzi{
+    width: 0.866rem;
+    height: 0.386rem;
+    font-size: 39px;
+    text-align: center;
+    position: absolute;
+    bott:1.4rem;
+    left: 0.21rem;
+}
+.container .container-center .bottom-three{
+    float: left;
+    width: 1.266rem;
+    height: 1.74rem;
+    margin-left: 0.63rem;
+    background: yellow;
+    position: relative;
+}
+.container .container-center .bottom-three .one-img{
+    width: 1.28rem;
+    height: 1.306rem;
+    position: absolute;
+    bott: 0.26rem;
+    right: 0.1rem;
+}
+.container .container-center .bottom-three .one-wenzi{
+    width: 0.866rem;
+    height: 0.386rem;
+    font-size: 39px;
+    text-align: center;
+    position: absolute;
+    bott:1.4rem;
+    left: 0.21rem;
+}
+.container .container-center .bottom-four{
+    float: left;
+    width: 1.266rem;
+    height: 1.74rem;
+    margin-left: 0.63rem;
+    background: yellow;
+    position: relative;
+}
+.container .container-center .bottom-four .one-img{
+    width: 1.28rem;
+    height: 1.306rem;
+    position: absolute;
+    bott: 0.26rem;
+    right: 0.1rem;
+}
+.container .container-center .bottom-four .one-wenzi{
+    width: 0.866rem;
+    height: 0.386rem;
+    font-size: 39px;
+    text-align: center;
+    position: absolute;
+    bott:1.4rem;
+    left: 0.21rem;
+}
+.container .container-center .bottom-five{
+    float: left;
+    width: 1.266rem;
+    height: 1.74rem;
+    margin-left: 0.63rem;
+    background: yellow;
+    position: relative;
+}
+.container .container-center .bottom-five .one-img{
+    width: 1.28rem;
+    height: 1.306rem;
+    position: absolute;
+    bott: 0.26rem;
+    right: 0.1rem;
+}
+.container .container-center .bottom-five .one-wenzi{
+    width: 0.866rem;
+    height: 0.386rem;
+    font-size: 39px;
+    text-align: center;
+    position: absolute;
+    bott:1.4rem;
+    left: 0.21rem;
+}

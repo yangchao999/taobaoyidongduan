@@ -1,0 +1,27 @@
+.banner-four{
+    width: 10rem;
+    height: 6.734rem;
+}
+.banner-four .banner-four-top{
+    width: 10rem;
+    height: 0.844rem;
+    background: #ffffff;
+    line-height: 0.844rem;
+}
+.banner-four .banner-four-top a{
+    display: block;
+    height: 0.844rem;
+    background: url("../img/tianmao222.png") no-repeat ;
+    margin-top: 0.219rem;
+    margin-left: 4.094rem;
+    padding-left: 0.75rem;
+    font-size: 13px;
+    color: #fe402d;
+    background-position-y:53%;
+}
+[data-dpr="2"] .banner-four .banner-four-top a{
+    font-size: 26px;
+}
+[data-dpr="3"] .banner-four .banner-four-top a{
+    font-size: 39px;
+}
